@@ -16,6 +16,8 @@
   * [Star](./Star/) 
   
  ## 3rd ArtWork : RAIN
+ 
+  ![예시 이미지](./Rain.png)
   * [Rain](./Rain/) 
   
  ## 4th ArtWork : FUN
