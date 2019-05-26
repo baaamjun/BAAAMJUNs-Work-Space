@@ -11,4 +11,4 @@
  
  
  ## 첫번째 작업
-  * [Rainbow](/Rainbow/) 
+  * [Rainbow](./Rainbow/) 
