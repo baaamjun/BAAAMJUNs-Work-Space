@@ -11,6 +11,8 @@
   * [Rainbow](./Rainbow/) 
   
  ## 2nd ArtWork : STAR
+ 
+  ![예시 이미지](./Star.png)
   * [Star](./Star/) 
   
  ## 3rd ArtWork : RAIN
