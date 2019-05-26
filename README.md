@@ -5,20 +5,20 @@
   * Unity Programming
   * Mobile UI & UX Design
  
- ## 1st 
+ ## 1st ArtWork : RAINBOW
   * [Rainbow](./Rainbow/) 
   
- ## 2nd
+ ## 2nd ArtWork : STAR
   * [Star](./Star/) 
   
- ## 3rd
+ ## 3rd ArtWork : RAIN
   * [Rain](./Rain/) 
   
- ## 4th
+ ## 4th ArtWork : FUN
   * [Fun](./Fun/) 
   
- ## 5th
+ ## 5th ArtWork : Waterfall
   * [Waterfall](./Waterfall/) 
   
- ## 6th
+ ## 6th ArtWork : Meteor
   * [Meteor](./Meteor/) 
