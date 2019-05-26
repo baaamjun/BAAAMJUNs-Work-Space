@@ -1,17 +1,23 @@
-## 이름
- * 김범준 (Kim Beomjun)
-
-
-## 작업
- * [예시 작업](./Rainbow/)
- * 여러분의 작업을 p5 기반으로 만들고 링크를 걸 수 있습니다.
- * 다음처럼 이미지를 추가할 수도 있습니다.
-
- ![예시 이미지](./example_img.png)
+ ## Beomjun Kim
+  * Seoul Institute of the Arts
+  * Digital Arts
+  * Creative Technology
+  * Unity Programming
+  * Mobile UI & UX Design
  
- 
- ## 첫번째 작업
+ ## 1st 
   * [Rainbow](./Rainbow/) 
   
- ## 두번째 작업
+ ## 2nd
   * [Star](./Star/) 
+  
+ ## 3rd
+  * [Rainbow](./Rainbow/) 
+  
+ ## 4th
+  * [Star](./Star/) 
+  
+ ## 5th
+  * [Star](./Star/) 
+  
+  
