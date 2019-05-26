@@ -9,7 +9,7 @@
  
  ![예시 이미지](./Rainbow.png)
   * [My RAINBOW](./Rainbow/) 
-  * 내 맘대로 방향을 컨트롤 할 수 있는 무지개
+  * 내 맘대로 컨트롤 할 수 있는 무지
   
  ## 2nd ArtWork : Real STAR
  
