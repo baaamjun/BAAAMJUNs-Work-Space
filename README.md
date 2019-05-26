@@ -6,7 +6,7 @@
   * Mobile UI & UX Design
  
  ## 1st ArtWork : RAINBOW
- (./Rainbow.png/)
+ (./Rainbow.img/)
   * [Rainbow](./Rainbow/) 
   
  ## 2nd ArtWork : STAR
