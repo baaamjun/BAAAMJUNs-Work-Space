@@ -17,7 +17,7 @@
   ![예시 이미지](./Star.png)
   * [Real STAR](./Star/) 
   * 진짜 별에 속하기 위하여 몸부림치는 별들
-  - 마우스를 이용한 컨트롤
+  * 마우스를 이용한 컨트롤
   
  ## 3rd ArtWork : Emotions of RAIN
  
