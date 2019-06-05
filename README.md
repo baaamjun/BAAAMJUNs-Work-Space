@@ -1,4 +1,4 @@
-## Beomjun Kim (김범준)
+## Beomjun Kim
   * Seoul Institute of the Arts
   * Digital Arts
   * Creative Technology
