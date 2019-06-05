@@ -8,6 +8,8 @@
 ## Final Project 1 : 4 Seasons
 
   * [4 SEASONS](./4Seasons/)
+  * 마우스의 위치에 따라 바뀌는 계절
+  * 봄 - 여름 - 가을 - 겨울
 
 ## 1st ArtWork : My RAINBOW
 
