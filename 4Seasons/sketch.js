@@ -5,16 +5,23 @@ let system4;
 let system5;
 let system6;
 
+let img;
+
+function preload() {
+  img = loadImage('4Seasons/Tree.png');
+}
+
 function setup() {
   createCanvas(720, 400);
+  image(img, 0, 0);
   system = new ParticleSystem(createVector(width / 2, 100));
   system2 = new ParticleSystem(createVector(width / 2 - 50, 150));
   system3 = new ParticleSystem(createVector(width / 2, 150));
   system4 = new ParticleSystem(createVector(width / 2 + 50, 150));
   system5 = new ParticleSystem(createVector(width / 2 - 25, 200));
   system6 = new ParticleSystem(createVector(width / 2 + 25, 200));
-  
-  
+
+
 }
 
 function draw() {
@@ -31,7 +38,7 @@ function draw() {
   system5.run();
   system6.addParticle();
   system6.run();
-  
+
 }
 
 
@@ -54,7 +61,7 @@ Particle.prototype.run = function() {
     this.update2();
    this.display2();
   }
-    
+
   else if(mouseX > width/2 && mouseY > height/2)
   {
     this.update3();
