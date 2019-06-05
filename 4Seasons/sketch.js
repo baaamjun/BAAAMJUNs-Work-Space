@@ -5,15 +5,15 @@ let system4;
 let system5;
 let system6;
 
-// let img;
-//
-// function preload() {
-//   img = loadImage('4Seasons/Tree.png');
-// }
+let img;
+
+function preload() {
+  img = loadImage('Tree.png');
+}
 
 function setup() {
   createCanvas(720, 400);
-  // image(img, 0, 0);
+  //image(img, 10, 10);
   system = new ParticleSystem(createVector(width / 2, 100));
   system2 = new ParticleSystem(createVector(width / 2 - 50, 150));
   system3 = new ParticleSystem(createVector(width / 2, 150));
@@ -26,6 +26,7 @@ function setup() {
 
 function draw() {
   background(255);
+  image(img, 285, 50, 150, 250);
   system.addParticle();
   system.run();
   system2.addParticle();
