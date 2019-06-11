@@ -7,6 +7,7 @@
 
 ## Final Project 1 : 사계
 
+ ![예시 이미지](./4Seasons.png)
   * [4 SEASONS](./4Seasons/)
   * 마우스의 위치에 따라 바뀌는 계절
   * 봄 - 여름 - 가을 - 겨울
