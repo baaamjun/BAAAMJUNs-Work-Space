@@ -5,6 +5,14 @@
   * Unity Programming
   * Mobile UI & UX Design
 
+## Final Project 2 : Convergence
+
+ ![예시 이미지](./Convergence.png)
+  * [Convergence](./Convergence/)
+  * 태양 : 우주의 중심
+  * 지구, 잔다르, 타이탄, 이고, 사카아르 : 태양을 중심으로 제각각 돌며, 태양계를 구성하는 행성들, 출발점은 같으나 서로 속성이 달라 도는 궤도가 다르다.
+  * 마우스를 누르고 있으면, 태양이 폭발하며 다른 행성들이 태양에 융합되며 Convergence가 이뤄진다.
+
 ## Final Project 1 : 사계
 
  ![예시 이미지](./4Seasons.png)
