@@ -5,6 +5,13 @@
   * Unity Programming
   * Mobile UI & UX Design
 
+## Final Project 3 : 우리는 모르는 그들의 삶
+
+![예시 이미지](./TheirLife.png)
+  * [TheirLife](./TheirLife/)
+  * 다양한 생물들은 우리가 모르는 사이에 그들만의 삶을 살고 있다.
+  * 우리가 그들을 지켜보고 다루는 시간이 끝나면 그들만의 비밀스러운 삶이 시작된다.
+
 ## Final Project 2 : Convergence
 
  ![예시 이미지](./Convergence.png)
